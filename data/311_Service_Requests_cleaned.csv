@@ -1,0 +1,51 @@
+created_date,closed_date,status,description,zip_code
+2025-08-13,2025-08-20,Closed,Overflowing garbage bins on 5th avenue.,14201
+2025-08-07,2025-08-14,Closed,Noise complaint due to construction at night.,14201
+2025-08-27,2025-09-01,Closed,Overflowing garbage bins on 5th avenue.,14207
+2025-08-28,2025-09-04,Closed,Trash not collected for two consecutive days.,14215
+2025-08-24,2025-08-30,Closed,Streetlight not working for several days near community park.,14207
+2025-08-20,2025-08-28,Closed,Broken sidewalk causing safety issue.,14213
+2025-09-28,2025-10-04,Closed,Noise complaint due to construction at night.,14208
+2025-08-18,2025-08-22,Open,Illegal parking near fire hydrant.,14204
+2025-10-03,2025-10-12,Closed,Trash not collected for two consecutive days.,14213
+2025-08-07,2025-08-13,Closed,Illegal parking near fire hydrant.,14211
+2025-09-22,2025-09-28,Closed,Trash not collected for two consecutive days.,14201
+2025-09-07,2025-09-16,Closed,Streetlight not working for several days near community park.,14213
+2025-09-23,2025-09-30,Open,Street flooding after heavy rainfall.,14213
+2025-09-21,2025-09-26,Closed,Resident reported illegal dumping behind apartment complex.,14216
+2025-10-05,2025-10-11,Closed,Overflowing garbage bins on 5th avenue.,14206
+2025-08-31,2025-09-05,Closed,Broken sidewalk causing safety issue.,14201
+2025-09-03,2025-09-07,Closed,Resident reported illegal dumping behind apartment complex.,14220
+2025-08-09,2025-08-14,Closed,Street flooding after heavy rainfall.,14208
+2025-08-13,2025-08-18,Closed,Overflowing garbage bins on 5th avenue.,14208
+2025-09-02,2025-09-06,Closed,Pothole reported near school entrance.,14215
+2025-09-21,2025-09-28,Closed,Trash not collected for two consecutive days.,14216
+2025-08-03,2025-08-10,Open,Streetlight not working for several days near community park.,14215
+2025-09-09,2025-09-13,Closed,Resident reported illegal dumping behind apartment complex.,14220
+2025-08-06,2025-08-15,Closed,Resident reported illegal dumping behind apartment complex.,14206
+2025-08-06,2025-08-14,Closed,Resident reported illegal dumping behind apartment complex.,14207
+2025-08-08,2025-08-15,Closed,Streetlight not working for several days near community park.,14220
+2025-08-23,2025-08-26,Closed,Street flooding after heavy rainfall.,14208
+2025-09-19,2025-09-23,In Progress,Complaint about water leakage from main pipe.,14201
+2025-08-17,2025-08-23,Closed,Pothole reported near school entrance.,14215
+2025-08-27,2025-09-04,Closed,Trash not collected for two consecutive days.,14207
+2025-08-15,2025-08-23,Closed,Pothole reported near school entrance.,14204
+2025-08-29,2025-09-04,Closed,Noise complaint due to construction at night.,14206
+2025-10-10,2025-10-18,Closed,Streetlight not working for several days near community park.,14215
+2025-08-17,2025-08-23,Closed,Noise complaint due to construction at night.,14206
+2025-08-07,2025-08-15,Closed,Noise complaint due to construction at night.,14204
+2025-09-14,2025-09-18,Closed,Streetlight not working for several days near community park.,14216
+2025-08-08,2025-08-12,Closed,Streetlight not working for several days near community park.,14211
+2025-09-04,2025-09-12,Closed,Streetlight not working for several days near community park.,14220
+2025-09-11,2025-09-20,Closed,Overflowing garbage bins on 5th avenue.,14204
+2025-08-18,2025-08-21,Closed,Overflowing garbage bins on 5th avenue.,14208
+2025-08-31,2025-09-04,In Progress,Broken sidewalk causing safety issue.,14204
+2025-09-22,2025-09-28,Closed,Complaint about water leakage from main pipe.,14206
+2025-09-28,2025-10-01,Closed,Overflowing garbage bins on 5th avenue.,14206
+2025-09-02,2025-09-05,Closed,Noise complaint due to construction at night.,14207
+2025-10-08,2025-10-14,Closed,Street flooding after heavy rainfall.,14216
+2025-08-06,2025-08-10,Closed,Complaint about water leakage from main pipe.,14220
+2025-08-20,2025-08-26,Closed,Noise complaint due to construction at night.,14220
+2025-10-08,2025-10-12,Closed,Illegal parking near fire hydrant.,14220
+2025-08-17,2025-08-22,Closed,Broken sidewalk causing safety issue.,14204
+2025-09-06,2025-09-15,Closed,Trash not collected for two consecutive days.,14204
